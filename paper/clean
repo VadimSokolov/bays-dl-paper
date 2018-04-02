@@ -1,0 +1,13 @@
+#!/bin/bash
+
+rm *.bbl
+rm *.aux
+rm *.blg
+rm *.log
+rm *.pdf
+rm *.gz
+rm *.aux
+rm *.dvi
+rm *.out
+rm *.spl
+rm *.bak
